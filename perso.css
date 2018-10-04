@@ -1,0 +1,53 @@
+img
+{
+    margin-left: auto;
+    hight: 50px;
+    width: 50px;
+}
+body
+{
+    background-color: cyan;
+}
+h1,h2
+{
+    text-align: center;
+    display: inline;
+    background-color: darkcyan;
+}
+h1
+{
+    margin:15%;
+    text-align: center;
+}
+h2
+{
+    margin:20%;
+    text-align: center;
+}
+#titres
+{
+    width: 100%;
+}
+
+#tableau {
+
+
+    margin:10%;
+    position: absolute;
+    top:15%;
+}
+
+#Film
+{
+
+    text-align: center;
+}
+#Livres
+{
+    text-align: center;
+}
+#Sports
+{
+    text-align: center;
+
+}
