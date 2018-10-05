@@ -1,7 +1,7 @@
 img
 {
     margin-left: auto;
-    hight: 50px;
+    height: 50px;
     width: 50px;
 }
 body
@@ -13,6 +13,13 @@ h1,h2
     text-align: center;
     display: inline;
     background-color: darkcyan;
+}
+
+#texte
+{
+    position: absolute;
+    border: 5px solid red;
+    top: 17%;
 }
 h1
 {
@@ -34,21 +41,21 @@ h2
 
     margin:10%;
     position: absolute;
-    top:15%;
+    top:12%;
 }
 
 #Film
 {
+    margin: 10%;
 
-    text-align: center;
 
 }
 #Livres
 {
-    text-align: center;
+    margin: 10%;
 }
 #Sports
 {
-    text-align: center;
+    margin: 10%;
 
 }
